@@ -19,13 +19,13 @@ wp-content/uploads/*
 # Ignore plugin files
 wp-content/plugins/*
 !wp-content/plugins/index.php
-
+j
 # Ignore theme files
 wp-content/themes/*
 !wp-content/themes/index.php
 
 # Ignore specific files
-.htaccess
+.htaccess 
 error_log
 sitemap.xml
 sitemap.xml.gz
